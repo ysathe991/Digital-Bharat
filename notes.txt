@@ -1,0 +1,6 @@
+project installation
+tailwind configuration
+project structure
+layout - navbar - home/cart/order - footer
+routing
+context api - use to avoid props drilling
